@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+px4_microxrce_nav/__init__.py
+px4_microxrce_nav/autonomous_navigator.py
+px4_microxrce_nav.egg-info/PKG-INFO
+px4_microxrce_nav.egg-info/SOURCES.txt
+px4_microxrce_nav.egg-info/dependency_links.txt
+px4_microxrce_nav.egg-info/entry_points.txt
+px4_microxrce_nav.egg-info/requires.txt
+px4_microxrce_nav.egg-info/top_level.txt
+px4_microxrce_nav.egg-info/zip-safe
+resource/px4_microxrce_nav

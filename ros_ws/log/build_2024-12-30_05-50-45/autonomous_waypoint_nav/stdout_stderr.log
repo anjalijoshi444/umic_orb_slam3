@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing autonomous_waypoint_nav.egg-info/PKG-INFO
+writing dependency_links to autonomous_waypoint_nav.egg-info/dependency_links.txt
+writing entry points to autonomous_waypoint_nav.egg-info/entry_points.txt
+writing requirements to autonomous_waypoint_nav.egg-info/requires.txt
+writing top-level names to autonomous_waypoint_nav.egg-info/top_level.txt
+reading manifest file 'autonomous_waypoint_nav.egg-info/SOURCES.txt'
+writing manifest file 'autonomous_waypoint_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /Drone_Sim/ros_ws/install/autonomous_waypoint_nav/lib/python3.10/site-packages/autonomous-waypoint-nav.egg-link (link to .)
+Installing navigate script to /Drone_Sim/ros_ws/install/autonomous_waypoint_nav/lib/autonomous_waypoint_nav
+
+Installed /Drone_Sim/ros_ws/build/autonomous_waypoint_nav
+running symlink_data

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+my_px4_package/__init__.py
+my_px4_package/twist_to_trajectory.py
+my_px4_package.egg-info/PKG-INFO
+my_px4_package.egg-info/SOURCES.txt
+my_px4_package.egg-info/dependency_links.txt
+my_px4_package.egg-info/entry_points.txt
+my_px4_package.egg-info/requires.txt
+my_px4_package.egg-info/top_level.txt
+my_px4_package.egg-info/zip-safe
+resource/my_px4_package

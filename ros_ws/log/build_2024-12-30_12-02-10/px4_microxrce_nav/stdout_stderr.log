@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing px4_microxrce_nav.egg-info/PKG-INFO
+writing dependency_links to px4_microxrce_nav.egg-info/dependency_links.txt
+writing entry points to px4_microxrce_nav.egg-info/entry_points.txt
+writing requirements to px4_microxrce_nav.egg-info/requires.txt
+writing top-level names to px4_microxrce_nav.egg-info/top_level.txt
+reading manifest file 'px4_microxrce_nav.egg-info/SOURCES.txt'
+writing manifest file 'px4_microxrce_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/python3.10/site-packages/px4-microxrce-nav.egg-link (link to .)
+Installing autonomous_navigator script to /Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/px4_microxrce_nav
+
+Installed /Drone_Sim/ros_ws/build/px4_microxrce_nav
+running symlink_data

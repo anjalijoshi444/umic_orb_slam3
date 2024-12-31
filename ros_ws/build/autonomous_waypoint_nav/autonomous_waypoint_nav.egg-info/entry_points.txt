@@ -1,0 +1,3 @@
+[console_scripts]
+navigate = autonomous_waypoint_nav.autonomous_navigator:main
+

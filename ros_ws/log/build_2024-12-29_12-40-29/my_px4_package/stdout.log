@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating my_px4_package.egg-info
+writing my_px4_package.egg-info/PKG-INFO
+writing dependency_links to my_px4_package.egg-info/dependency_links.txt
+writing entry points to my_px4_package.egg-info/entry_points.txt
+writing requirements to my_px4_package.egg-info/requires.txt
+writing top-level names to my_px4_package.egg-info/top_level.txt
+writing manifest file 'my_px4_package.egg-info/SOURCES.txt'
+reading manifest file 'my_px4_package.egg-info/SOURCES.txt'
+writing manifest file 'my_px4_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /Drone_Sim/ros_ws/install/my_px4_package/lib/python3.10/site-packages/my-px4-package.egg-link (link to .)
+Installing twist_to_trajectory script to /Drone_Sim/ros_ws/install/my_px4_package/lib/my_px4_package
+
+Installed /Drone_Sim/ros_ws/build/my_px4_package
+running symlink_data
+creating /Drone_Sim/ros_ws/install/my_px4_package/share/ament_index
+creating /Drone_Sim/ros_ws/install/my_px4_package/share/ament_index/resource_index
+creating /Drone_Sim/ros_ws/install/my_px4_package/share/ament_index/resource_index/packages
+symbolically linking /Drone_Sim/ros_ws/build/my_px4_package/resource/my_px4_package -> /Drone_Sim/ros_ws/install/my_px4_package/share/ament_index/resource_index/packages
+symbolically linking /Drone_Sim/ros_ws/build/my_px4_package/package.xml -> /Drone_Sim/ros_ws/install/my_px4_package/share/my_px4_package

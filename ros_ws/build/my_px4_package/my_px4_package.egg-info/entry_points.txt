@@ -1,0 +1,3 @@
+[console_scripts]
+twist_to_trajectory = my_px4_package.twist_to_trajectory:main
+

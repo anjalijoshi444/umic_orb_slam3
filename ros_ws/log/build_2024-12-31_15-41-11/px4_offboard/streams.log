@@ -1,0 +1,21 @@
+[4.557s] Invoking command in '/Drone_Sim/ros_ws/build/px4_offboard': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/px4_offboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/px4_offboard/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/px4_offboard/build --no-deps symlink_data
+[4.805s] running develop
+[4.965s] running egg_info
+[4.965s] writing px4_offboard.egg-info/PKG-INFO
+[4.965s] writing dependency_links to px4_offboard.egg-info/dependency_links.txt
+[4.966s] writing entry points to px4_offboard.egg-info/entry_points.txt
+[4.966s] writing requirements to px4_offboard.egg-info/requires.txt
+[4.966s] writing top-level names to px4_offboard.egg-info/top_level.txt
+[5.414s] reading manifest file 'px4_offboard.egg-info/SOURCES.txt'
+[5.416s] writing manifest file 'px4_offboard.egg-info/SOURCES.txt'
+[5.423s] running build_ext
+[5.423s] Creating /Drone_Sim/ros_ws/install/px4_offboard/lib/python3.10/site-packages/px4-offboard.egg-link (link to .)
+[5.423s] Installing control script to /Drone_Sim/ros_ws/install/px4_offboard/lib/px4_offboard
+[5.423s] Installing offboard_control script to /Drone_Sim/ros_ws/install/px4_offboard/lib/px4_offboard
+[5.423s] Installing processes script to /Drone_Sim/ros_ws/install/px4_offboard/lib/px4_offboard
+[5.423s] Installing velocity_control script to /Drone_Sim/ros_ws/install/px4_offboard/lib/px4_offboard
+[5.423s] Installing visualizer script to /Drone_Sim/ros_ws/install/px4_offboard/lib/px4_offboard
+[5.423s] 
+[5.423s] Installed /Drone_Sim/ros_ws/build/px4_offboard
+[5.423s] running symlink_data
+[5.990s] Invoked command in '/Drone_Sim/ros_ws/build/px4_offboard' returned '0': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/px4_offboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/px4_offboard/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/px4_offboard/build --no-deps symlink_data

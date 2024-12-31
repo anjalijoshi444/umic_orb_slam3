@@ -1,0 +1,17 @@
+[4.562s] Invoking command in '/Drone_Sim/ros_ws/build/px4_microxrce_nav': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/px4_microxrce_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/px4_microxrce_nav/build --no-deps symlink_data
+[4.808s] running develop
+[4.968s] running egg_info
+[4.968s] writing px4_microxrce_nav.egg-info/PKG-INFO
+[4.968s] writing dependency_links to px4_microxrce_nav.egg-info/dependency_links.txt
+[4.968s] writing entry points to px4_microxrce_nav.egg-info/entry_points.txt
+[4.969s] writing requirements to px4_microxrce_nav.egg-info/requires.txt
+[4.969s] writing top-level names to px4_microxrce_nav.egg-info/top_level.txt
+[4.970s] reading manifest file 'px4_microxrce_nav.egg-info/SOURCES.txt'
+[4.978s] writing manifest file 'px4_microxrce_nav.egg-info/SOURCES.txt'
+[4.979s] running build_ext
+[4.979s] Creating /Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/python3.10/site-packages/px4-microxrce-nav.egg-link (link to .)
+[4.980s] Installing autonomous_navigator script to /Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/px4_microxrce_nav
+[4.980s] 
+[4.980s] Installed /Drone_Sim/ros_ws/build/px4_microxrce_nav
+[4.980s] running symlink_data
+[4.998s] Invoked command in '/Drone_Sim/ros_ws/build/px4_microxrce_nav' returned '0': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/px4_microxrce_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/px4_microxrce_nav/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/px4_microxrce_nav/build --no-deps symlink_data

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+autonomous_waypoint_nav/__init__.py
+autonomous_waypoint_nav/autonomous_navigator.py
+autonomous_waypoint_nav.egg-info/PKG-INFO
+autonomous_waypoint_nav.egg-info/SOURCES.txt
+autonomous_waypoint_nav.egg-info/dependency_links.txt
+autonomous_waypoint_nav.egg-info/entry_points.txt
+autonomous_waypoint_nav.egg-info/requires.txt
+autonomous_waypoint_nav.egg-info/top_level.txt
+autonomous_waypoint_nav.egg-info/zip-safe
+resource/autonomous_waypoint_nav

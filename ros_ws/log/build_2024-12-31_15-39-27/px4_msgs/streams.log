@@ -1,0 +1,22 @@
+[0.557s] Invoking command in '/Drone_Sim/ros_ws/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /Drone_Sim/ros_ws/build/px4_msgs -- -j8 -l8
+[7.265s] [  0%] Built target ament_cmake_python_symlink_px4_msgs
+[7.544s] [  0%] Built target px4_msgs__cpp
+[11.561s] [ 12%] Built target px4_msgs__rosidl_generator_c
+[11.817s] running egg_info
+[11.818s] writing px4_msgs.egg-info/PKG-INFO
+[11.818s] writing dependency_links to px4_msgs.egg-info/dependency_links.txt
+[11.818s] writing top-level names to px4_msgs.egg-info/top_level.txt
+[12.325s] reading manifest file 'px4_msgs.egg-info/SOURCES.txt'
+[13.081s] writing manifest file 'px4_msgs.egg-info/SOURCES.txt'
+[13.103s] [ 12%] Built target ament_cmake_python_build_px4_msgs_egg
+[16.014s] [ 25%] Built target px4_msgs__rosidl_typesupport_introspection_c
+[16.909s] [ 38%] Built target px4_msgs__rosidl_typesupport_introspection_cpp
+[16.961s] [ 51%] Built target px4_msgs__rosidl_typesupport_c
+[17.664s] [ 63%] Built target px4_msgs__rosidl_typesupport_cpp
+[18.211s] [ 88%] Built target px4_msgs__rosidl_typesupport_fastrtps_c
+[18.211s] [ 88%] Built target px4_msgs__rosidl_typesupport_fastrtps_cpp
+[18.464s] [ 88%] Built target px4_msgs
+[19.104s] [ 88%] Built target px4_msgs__py
+[20.062s] gmake[1]: *** [CMakeFiles/Makefile2:474: CMakeFiles/px4_msgs__rosidl_generator_py.dir/all] Interrupt
+[20.062s] gmake: *** [Makefile:146: all] Interrupt
+[20.063s] Invoked command in '/Drone_Sim/ros_ws/build/px4_msgs' returned '-2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /Drone_Sim/ros_ws/build/px4_msgs -- -j8 -l8

@@ -1,0 +1,17 @@
+[1.983s] Invoking command in '/Drone_Sim/ros_ws/build/my_px4_package': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/my_px4_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/my_px4_package/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/my_px4_package/build --no-deps symlink_data
+[2.186s] running develop
+[2.288s] running egg_info
+[2.288s] writing my_px4_package.egg-info/PKG-INFO
+[2.289s] writing dependency_links to my_px4_package.egg-info/dependency_links.txt
+[2.289s] writing entry points to my_px4_package.egg-info/entry_points.txt
+[2.289s] writing requirements to my_px4_package.egg-info/requires.txt
+[2.289s] writing top-level names to my_px4_package.egg-info/top_level.txt
+[2.292s] reading manifest file 'my_px4_package.egg-info/SOURCES.txt'
+[2.293s] writing manifest file 'my_px4_package.egg-info/SOURCES.txt'
+[2.295s] running build_ext
+[2.295s] Creating /Drone_Sim/ros_ws/install/my_px4_package/lib/python3.10/site-packages/my-px4-package.egg-link (link to .)
+[2.296s] Installing twist_to_trajectory script to /Drone_Sim/ros_ws/install/my_px4_package/lib/my_px4_package
+[2.296s] 
+[2.296s] Installed /Drone_Sim/ros_ws/build/my_px4_package
+[2.296s] running symlink_data
+[2.327s] Invoked command in '/Drone_Sim/ros_ws/build/my_px4_package' returned '0': AMENT_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/Drone_Sim/ros_ws/install/px4_msgs LD_LIBRARY_PATH=/Drone_Sim/ros_ws/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/Drone_Sim/ros_ws/build/my_px4_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/Drone_Sim/ros_ws/install/my_px4_package/lib/python3.10/site-packages:/Drone_Sim/ros_ws/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /Drone_Sim/ros_ws/build/my_px4_package/build --no-deps symlink_data

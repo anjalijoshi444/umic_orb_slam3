@@ -1,0 +1,1 @@
+prepend-non-duplicate;PYTHONPATH;/Drone_Sim/ros_ws/build/px4_offboard
